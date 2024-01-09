@@ -1,6 +1,5 @@
 # Redux
 
-# Tech-Blog
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description.
@@ -67,4 +66,4 @@ SOFTWARE.
 Follow me on Github at [Yves Harry Deslouches](https://github.com/YvesHarry). 
 Additional questions or concerns? feel free to contact me at yhdeslouches@hotmail.com
 
-© 2023 [Yves Harry Deslouches](https://github.com/YvesHarry). Confidential and Proprietary. All Rights Reserved.
+All Rights Reserved. © 2023 [Yves Harry Deslouches](https://github.com/YvesHarry). Confidential and Proprietary. 
